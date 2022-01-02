@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AsyncChannel",
+        "repositoryURL": "https://github.com/alexito4/AsyncChannel.git",
+        "state": {
+          "branch": "main",
+          "revision": "92a326c8b22eddd501ef82a9eea7148712fe5d3e",
+          "version": null
+        }
+      },
+      {
+        "package": "Baggins",
+        "repositoryURL": "https://github.com/alexito4/Baggins.git",
+        "state": {
+          "branch": "master",
+          "revision": "d83ac1e1152097f8b70913136a5814df33ffe9e0",
+          "version": null
+        }
+      },
+      {
+        "package": "CollectionConcurrencyKit",
+        "repositoryURL": "https://github.com/JohnSundell/CollectionConcurrencyKit.git",
+        "state": {
+          "branch": null,
+          "revision": "b4f23e24b5a1bff301efc5e70871083ca029ff95",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "swift-collections",
+        "repositoryURL": "https://github.com/apple/swift-collections.git",
+        "state": {
+          "branch": null,
+          "revision": "9d8719c8bebdc79740b6969c912ac706eb721d7a",
+          "version": "0.0.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
